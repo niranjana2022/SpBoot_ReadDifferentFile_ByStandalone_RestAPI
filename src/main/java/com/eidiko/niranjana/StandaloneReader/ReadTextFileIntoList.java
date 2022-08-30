@@ -31,7 +31,7 @@ public static List<String> readFileInList(String fileName)
 }
 public static void main(String[] args)
 {
-	List l = readFileInList("C:\\Users\\Sreenivas Bandaru\\Downloads\\Sisu\\Eidiko\\data.txt");
+	List l = readFileInList("C:\\Users\\Sreenivas Bandaru\\Downloads\\Sisu\\Sample files\\data.txt");
 
 	Iterator<String> itr = l.iterator();
 	while (itr.hasNext())

@@ -15,7 +15,7 @@ public static String readFileAsString(String fileName)throws Exception
 
 public static void main(String[] args) throws Exception
 {
-	String data = readFileAsString("C:\\Users\\Sreenivas Bandaru\\Downloads\\Sisu\\Eidiko\\data.txt");
+	String data = readFileAsString("C:\\Users\\Sreenivas Bandaru\\Downloads\\Sisu\\Sample files\\data.txt");
 	System.out.println(data);
 }
 }
